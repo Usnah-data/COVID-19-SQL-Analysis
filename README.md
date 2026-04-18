@@ -1,2 +1,3 @@
 # COVID-19-SQL-Analysis
-SQL analysis of COVID-19 dataset including trends, cases, and insights
+# retail_sql_analysis
+SQL data analysis project exploring COVID_19 cumulative cases across countries. Includes use of aggregation, subqueries,and filtering techniques to derive insights such as countries above global average cases and dataset coverage.
